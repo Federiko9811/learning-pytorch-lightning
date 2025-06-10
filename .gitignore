@@ -1,0 +1,6 @@
+image-classification/dataset
+image-classification/logs
+
+tutorial/dataset
+tutorial/lightning_logs
+tutorial/logs
